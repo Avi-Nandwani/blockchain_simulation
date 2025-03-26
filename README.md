@@ -28,5 +28,5 @@ This project demonstrates a basic blockchain simulation built in JavaScript. The
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/blockchain-simulation.git
-   cd blockchain-simulation
+   git clone https://github.com/Avi-Nandwani/blockchain_simulation.git
+   cd blockchain_simulation
